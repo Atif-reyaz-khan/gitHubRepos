@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">githubRepos</string>
+    <string name="search">Search</string>>
+<string name="error_msg">Failed to connect</string>
+</resources>
